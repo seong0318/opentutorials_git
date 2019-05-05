@@ -9,3 +9,4 @@ branchbranch
 add head_EX
 branch2
 conflict
+원격저장소
