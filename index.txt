@@ -8,4 +8,4 @@ add version
 branchbranch
 add head_EX
 branch2
-
+conflict
