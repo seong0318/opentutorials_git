@@ -19,3 +19,4 @@ complete conflict
 pull
 egoing
 pull.leezche
+conflict.egoing
