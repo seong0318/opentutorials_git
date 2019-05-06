@@ -16,3 +16,4 @@ complete conflict
 원격저장소
 동기화
 pull
+egoing
