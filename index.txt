@@ -18,3 +18,4 @@ complete conflict
 동기화
 pull
 egoing
+pull.leezche
