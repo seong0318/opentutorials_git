@@ -14,3 +14,4 @@ branch2
 conflict
 complete conflict
 원격저장소
+동기화
